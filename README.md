@@ -8,8 +8,7 @@ Office_managementは勤怠管理アプリです
 
 作品へ通じるURLとなっております、クリックすると認証画面に入りますので会員登録をお済ませ下さい、するとホーム画面へ遷移致します。
 
-ここから入れます。
-<a href="https://ancient-river-80752.herokuapp.com/"
+[ここから入れます](https://ancient-river-80752.herokuapp.com/)
 
 ### 従業員登録
 
@@ -25,8 +24,8 @@ Office_managementは勤怠管理アプリです
 
 ## 使用技術
 
-・php 7.4.12
-・laravel 6
+・php7.4.12
+・laravel6
 ・javascript
 ・MySQL
 ・Heroku
@@ -34,7 +33,7 @@ Office_managementは勤怠管理アプリです
 
 ## 機能一覧
 
-ユーザー登録、ログイン機能
+ユーザー登録、ログイン機能、
 従業員登録、従業員の一覧表示、
 名前検索、時間の打刻、
 当月の打刻記録の確認、ページネーション
